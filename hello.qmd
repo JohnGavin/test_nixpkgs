@@ -9,6 +9,7 @@ Hello Quarto
 
 ```{r}
 head(mtcars)
+dim(mtcars)
 ```
 
 ```{python}
